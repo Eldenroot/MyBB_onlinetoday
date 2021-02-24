@@ -1,34 +1,0 @@
-9
-
-dir
-5
-https://CraKteR-PC:8443/svn/plug-ins/trunk/Online%20today/inc
-https://CraKteR-PC:8443/svn/plug-ins
-
-
-
-2008-08-04T15:55:02.589874Z
-3
-CraKteR
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-a49c8897-d98d-6340-b921-88864c5a319b
-
-plugins
-dir
-
-languages
-dir
-
