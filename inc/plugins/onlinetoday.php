@@ -173,4 +173,3 @@ function add_onlinetoday()
 		eval("\$online_today = \"".$templates->get("online_today_index")."\";");
 	}
 }
-?>
